@@ -8,8 +8,8 @@ export function Hero() {
         Questions, answers, and feedback in one view
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground">
-        Display the interview question, follow the candidate&apos;s answer as it is given, and
-        review a clear feedback summary when they finish.
+        Display the interview question, view the candidate&apos;s answer, and review a clear
+        feedback summary.
       </p>
       <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">
         <a
